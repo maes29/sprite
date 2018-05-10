@@ -30,7 +30,7 @@
 }
 
 .background {
-  background-image: url("/home/smx2c/Documents/Animaciones/megaman/megaman-background.jpg");
+  background-image: url("megaman-background.jpg");
   width: 800px;
   height: 506px;
   border: thin solid black;
@@ -41,7 +41,7 @@
 }
 
 .sky {
-  background-image: url("/home/smx2c/Documents/Animaciones/megaman/megaman-background.jpg");
+  background-image: url("megaman-background.jpg");
   width: 900px;
   height: 506px;
   position: absolute;
@@ -50,7 +50,7 @@
 }
 
 .megaman {
-  background-image: url("/home/smx2c/Documents/Animaciones/megaman/megaman.png");
+  background-image: url("megaman.png");
   width: 41px;
   height: 66px;
   position: absolute;
